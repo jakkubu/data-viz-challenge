@@ -1,0 +1,37 @@
+{
+  "status":[
+    "married",
+    "single"
+  ],
+  "amount":581,
+  "time":2670556,
+  "device":[
+    "android",
+    "iOS"
+  ],
+  "gender":[
+    "M",
+    "F",
+    "U"
+  ],
+  "age":[
+    "55+",
+    "45-54",
+    "35-44",
+    "25-34",
+    "18-24"
+  ],
+  "maxStateVal":1632,
+  "categories":[
+    "viewed Sports",
+    "viewed Technology",
+    "viewed Environment",
+    "viewed Fashion",
+    "viewed Games",
+    "founded Sports",
+    "founded Technology",
+    "founded Environment",
+    "founded Fashion",
+    "founded Games"
+  ]
+}
